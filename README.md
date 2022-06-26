@@ -1,5 +1,6 @@
 # The Odin's Project
 
+![Alt text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/53d74d41-3d0c-4947-ad7c-210ddd0bd47a/d78iu25-6d8f732f-1217-4eda-88f9-bc30a3ba0cac.png/v1/fill/w_1024,h_175,q_75,strp/welcome_to_my_profile__by_paulaalfonsi-d78iu25.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi81M2Q3NGQ0MS0zZDBjLTQ5NDctYWQ3Yy0yMTBkZGQwYmQ0N2EvZDc4aXUyNS02ZDhmNzMyZi0xMjE3LTRlZGEtODhmOS1iYzMwYTNiYTBjYWMucG5nIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTE3NSJ9XV19.sZmvFYNgbLMffSE6HCufesGjFIjlnCRctdIVGCJ7--0)
 This is my first project while learning web development at the odin's project!
 Many tasks and projects ahead.
 
